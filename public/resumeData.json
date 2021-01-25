@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Danielle Cutler",
+    "occupation": "Future Full Stack Developer",
+    "description": "Future Front and Back end developer",
+    "image": "mepic.jpg",
+    "bio": "Currently I am an aspiring developer with some knoweledge in HTML, JavaScript, and CSS. My hopes are to use the knowledge that I attain to become a full stack developer. I look forward to the opportunities that will come my way when I have completed all neccessary schooling.",
+    "contactmessage": "Please contact me for any questions that you may have.",
+    "email": "cutlerd02@gmail.com",
+    "phone": "(775)303-9985",
+    "address": {
+      "street": "10165 N Blue Crossing Way",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85743"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/danielle.kerseycutler",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/danielle-cutler-653846189/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gagirlazworld/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "https://github.com/DaniCutler",
+        "url": "https://github.com/DaniCutler",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Confidence in Skills Learned",
+    "education": [
+      {
+        "school": "University of Arizona-Tucson/BootCampSpot",
+        "Certificate": "Full Stack Web Development",
+        "graduated": "September 2020",
+        "description": "Completed a bootcamp for full stack web development"
+      }
+    ],
+    "work": [
+      {
+        "company": "123",
+        "title": "JavaScript Specialist",
+        "years": "May 2019 - Present",
+        "description": "Incididunt eiusmod voluptate cupidatat mollit aliqua aliquip tempor deserunt enim elit laborum minim."
+      },
+      {
+        "company": "Labore Lorem et nulla veniam pariatur nisi non.",
+        "title": "Pariatur sunt commodo duis Lorem eiusmod ullamco reprehenderit veniam.",
+        "years": "Jan 2019 - Present",
+        "description": "Do deserunt ut ad cupidatat ad."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Jingle All the Way",
+        "category": "Gift List generator built with many technologies",
+        "image": "jingle.jpg",
+        "url": "https://github.com/anandlal1080/jingle-all-the-way"
+      },
+      {
+        "title": "Brew Norris",
+        "category": "Brewery search that includes a Chuck Norris Funny",
+        "image": "userguide.jpg",
+        "url": "https://github.com/DaniCutler/groupproject1"
+      },
+      {
+        "title": "MySQL Employee Tracker",
+        "category": "Build and architect a solution for managing a company's employees using node, inquirer, MySQL",
+        "image": "sqlemployeetracker.jpg",
+        "url": "https://github.com/DaniCutler/sqlemployeetracker"
+      },
+      {
+        "title": "Office-Space CRM",
+        "category": "The company relationship management system can track and manage the ways of every lead and customer that interacts with your company.",
+        "image": "officespace.jpg",
+        "url": "https://github.com/Malsham3/Office-Space"
+      },
+      {
+        "title": "README Generator",
+        "category": "When creating an open source project on GitHub, it’s important to have a high-quality README for the app.",
+        "image": "READMEGen.jpg",
+        "url": "https://github.com/DaniCutler/READMEGen"
+      },
+      {
+        "title": "Budget Tracker",
+        "category": "Introduction Full Stack web application made with express, node and indexDB. This application is to be used to track finances. You will be able to add income and subtract expenses used.",
+        "image": "budgettracker.jpg",
+        "url": "https://github.com/Malsham3/Office-Space"
+      }
+
+
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Although fresh out of her assisting program she was already well skilled in dealing with the public and opther employees. Danielle is a constant learner and rearely can I remember having to explain anything twice to her. Our patients, staff and I loved her. I would gladly recommend her without reservation.",
+        "user": "K. Alex Poole, II, DMD"
+      },
+      {
+        "text": "Ad enim proident excepteur culpa excepteur proident ipsum proident voluptate aute duis ea excepteur consectetur.",
+        "user": "Velit occaecat est tempor sit anim laboris veniam ad excepteur enim qui adipisicing."
+      }
+    ]
+  }
+}
