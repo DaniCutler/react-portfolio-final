@@ -14,7 +14,7 @@ A ReactJs based personal resume
 
 
 
-#### Final ReactJs Portfolio
+
 
 ## Credits
 
