@@ -1,6 +1,6 @@
 # ReactJS Portfolio
 
-## <a href="     " target="_blank">LIVE DEMO</a>
+## <a href="   https://react-portfolio-dc.netlify.app/#home  " target="_blank">LIVE DEMO</a>
 
 ## Description
 
